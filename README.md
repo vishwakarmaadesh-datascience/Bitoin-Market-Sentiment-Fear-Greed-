@@ -80,3 +80,5 @@ To set up and run this project locally, follow these steps:
 -   Developed a predictive model to proactively identify traders likely to be profitable or non-profitable the next day.
 
 ---
+Adesh Vishwakarma 
+vishwakarmaadesh90@gmail.com
