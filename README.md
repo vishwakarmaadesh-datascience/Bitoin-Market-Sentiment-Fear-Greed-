@@ -70,7 +70,7 @@ To set up and run this project locally, follow these steps:
 ├── fear_greed_index.csv       # Dataset: Fear & Greed Index
 ├── historical_data.csv        # Dataset: Historical trading data
 ├── README.md                  # This README file
-└── requirements.txt (optional) # List of Python dependencies
+└── requirements.txt  # List of Python dependencies
 ```
 
 ## Insights & Outcomes
